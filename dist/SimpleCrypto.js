@@ -1,7 +1,7 @@
 /**
  * SimpleCrypto v3.0.1
  *
- * Copyright © 2022 Danang Galuh Tegar Prasetyo.
+ * Copyright © 2021 Danang Galuh Tegar Prasetyo.
  * This library is licensed under the MIT License.
  * -------------------------------------
  */
